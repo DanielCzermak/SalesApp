@@ -1,0 +1,5 @@
+123;Manner Napolyi;24;319
+125;Fogkefe;6;850
+12978;Energiaital 250ml;48;269
+98765;Csoki;20;399
+111;Papucs;2;1200
